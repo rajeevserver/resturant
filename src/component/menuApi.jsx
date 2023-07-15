@@ -497,7 +497,7 @@ const menu = [
     "price": 79.95,
     "rate": 5,
     "country": "Cincinnati, OH",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "ice-cream-choose-your-own-5-pints",
@@ -507,7 +507,7 @@ const menu = [
     "price": 99,
     "rate": 4,
     "country": "San Diego, CA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "ice-cream-choose-your-own-6-pints",
@@ -517,7 +517,7 @@ const menu = [
     "price": 99,
     "rate": 5,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "23595-choose-your-own-ice-cream-sandwich-8-pack",
@@ -527,7 +527,7 @@ const menu = [
     "price": 79,
     "rate": 4,
     "country": "Wilmington, NC",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "choose-your-own-6-pints",
@@ -537,7 +537,7 @@ const menu = [
     "price": 109,
     "rate": 5,
     "country": "Brooklyn, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "choose-your-own-ice-cream-12-pints",
@@ -547,7 +547,7 @@ const menu = [
     "price": 119.95,
     "rate": 4,
     "country": "Cincinnati, OH",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "best-sellers-ice-cream-collection-6-pints",
@@ -557,7 +557,7 @@ const menu = [
     "price": 99,
     "rate": 4,
     "country": "Lexington, KY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "choose-your-own-ice-cream-donuts-6-pack",
@@ -567,7 +567,7 @@ const menu = [
     "price": 69,
     "rate": 5,
     "country": "Brooklyn, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "choose-your-own-ice-cream-5-pints",
@@ -577,7 +577,7 @@ const menu = [
     "price": 89,
     "rate": 4,
     "country": "Washington, DC",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "pannas-choice-ice-cream-6-pack",
@@ -587,7 +587,7 @@ const menu = [
     "price": 109,
     "rate": 5,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "gelato-and-sorbetto-minis-12-pack",
@@ -597,7 +597,7 @@ const menu = [
     "price": 94,
     "rate": 5,
     "country": "Los Angeles, CA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "mochi-ice-cream-choose-your-own-12-pack",
@@ -607,7 +607,7 @@ const menu = [
     "price": 75,
     "rate": 5,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "giant-ice-cream-sandwich-kit-choose-your-own-6-pack",
@@ -617,7 +617,7 @@ const menu = [
     "price": 84,
     "rate": 5,
     "country": "San Diego, CA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "layered-ice-cream-sundae-jar-choose-your-own-6-pack",
@@ -627,7 +627,7 @@ const menu = [
     "price": 125,
     "rate": 5,
     "country": "Gulf Shores, AL",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "cookie-monster-ice-cream-sandwich-8-pack",
@@ -637,7 +637,7 @@ const menu = [
     "price": 75,
     "rate": 4,
     "country": "Richmond, VA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "best-seller-ice-cream-pack-6-pints",
@@ -647,7 +647,7 @@ const menu = [
     "price": 99,
     "rate": 5,
     "country": "Woodbury, MN",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "choose-your-own-ice-cream-creamwich-combo-for-10",
@@ -657,7 +657,7 @@ const menu = [
     "price": 109,
     "rate": 4,
     "country": "Manhattan Beach, CA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "giant-ice-cream-sandwich-kit-choose-your-own-9-pack",
@@ -667,7 +667,7 @@ const menu = [
     "price": 99,
     "rate": 5,
     "country": "San Diego, CA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "bonastyle-ice-cream-choose-your-own-6-pints",
@@ -677,7 +677,7 @@ const menu = [
     "price": 99,
     "rate": 5,
     "country": "Port Chester, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "flavors-of-kentucky-ice-cream-collection-6-pints",
@@ -687,7 +687,7 @@ const menu = [
     "price": 99,
     "rate": 4,
     "country": "Lexington, KY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "signature-chip-ice-cream-6-pints",
@@ -697,7 +697,7 @@ const menu = [
     "price": 79.95,
     "rate": 5,
     "country": "Cincinnati, OH",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "15259-german-chocolate-killer-brownie-tin-pack",
@@ -707,7 +707,7 @@ const menu = [
     "price": 39.99,
     "rate": 4,
     "country": "Dayton, OH",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "jacques-world-famous-chocolate-chip-cookies",
@@ -717,7 +717,7 @@ const menu = [
     "price": 39.95,
     "rate": 4,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "luigis-original-cannoli-pie",
@@ -727,7 +727,7 @@ const menu = [
     "price": 69,
     "rate": 4,
     "country": "Bridgeport, CT",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "sea-salted-caramel-swirl-cheesecake",
@@ -737,7 +737,7 @@ const menu = [
     "price": 65,
     "rate": 4,
     "country": "Hattiesburg, MS",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "brooklyn-blackout-cookie-brownie-combo-pack-2-tins",
@@ -747,7 +747,7 @@ const menu = [
     "price": 89,
     "rate": 5,
     "country": "Brooklyn, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "best-seller-cupcake-dozen",
@@ -757,7 +757,7 @@ const menu = [
     "price": 89,
     "rate": 4,
     "country": "Houston, TX",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "choose-your-own-ice-cream-donuts-6-pack",
@@ -767,7 +767,7 @@ const menu = [
     "price": 69,
     "rate": 5,
     "country": "Brooklyn, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "17481-jewish-dessert-3-pack",
@@ -777,7 +777,7 @@ const menu = [
     "price": 89.95,
     "rate": 5,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "dessert-bar-care-package",
@@ -787,7 +787,7 @@ const menu = [
     "price": 65,
     "rate": 4,
     "country": "Wells, ME",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "donut-cookies-12-pack",
@@ -797,7 +797,7 @@ const menu = [
     "price": 49,
     "rate": 5,
     "country": "Chicago, IL",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "gulab-jamun-ice-cream-cakes-2-pack",
@@ -807,7 +807,7 @@ const menu = [
     "price": 79,
     "rate": 4,
     "country": "Brooklyn, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "jacques-world-famous-chocolate-chip-cookies-12-pack",
@@ -817,7 +817,7 @@ const menu = [
     "price": 69.95,
     "rate": 5,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "assorted-rice-krispie-treats-12-pack",
@@ -827,7 +827,7 @@ const menu = [
     "price": 49,
     "rate": 4,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "choose-your-own-ice-cream-6-pints",
@@ -837,7 +837,7 @@ const menu = [
     "price": 79.95,
     "rate": 4,
     "country": "Cincinnati, OH",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "candy-cookie-cheesecake-sampler",
@@ -847,7 +847,7 @@ const menu = [
     "price": 79,
     "rate": 5,
     "country": "Chicago, IL",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "chocolate-marshmallows",
@@ -857,7 +857,7 @@ const menu = [
     "price": 25,
     "rate": 4,
     "country": "Nashville, TN",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "brooklyn-blackout-parfait",
@@ -867,7 +867,7 @@ const menu = [
     "price": 79,
     "rate": 4,
     "country": "Brooklyn, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "24011-chocolate-and-cinnamon-babka-3-pack",
@@ -877,7 +877,7 @@ const menu = [
     "price": 49.95,
     "rate": 4,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "dessert-bars-choose-your-own-9-pack",
@@ -887,7 +887,7 @@ const menu = [
     "price": 49,
     "rate": 5,
     "country": "Lawrence Twp, NJ",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "cinnamon-rolls-honey-bees-sampler-pack",
@@ -897,7 +897,7 @@ const menu = [
     "price": 69,
     "rate": 5,
     "country": "La Grange, TX",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "original-ny-plain-cheesecake",
@@ -907,7 +907,7 @@ const menu = [
     "price": 64.95,
     "rate": 4,
     "country": "Brooklyn, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "little-italy-dessert-pack",
@@ -917,7 +917,7 @@ const menu = [
     "price": 69,
     "rate": 4,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "cookie-monster-ice-cream-sandwich-8-pack",
@@ -927,7 +927,7 @@ const menu = [
     "price": 75,
     "rate": 5,
     "country": "Richmond, VA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "cinnamon-roll-cheesecake",
@@ -937,7 +937,7 @@ const menu = [
     "price": 75,
     "rate": 4,
     "country": "Statesboro, GA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "23595-choose-your-own-ice-cream-sandwich-8-pack",
@@ -947,7 +947,7 @@ const menu = [
     "price": 79,
     "rate": 4,
     "country": "Wilmington, NC",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "banana-pudding-sampler-4-pack",
@@ -957,7 +957,7 @@ const menu = [
     "price": 69,
     "rate": 4,
     "country": "Long Beach, CA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "24011-breads-bakery-chocolate-babka-3-pack",
@@ -967,7 +967,7 @@ const menu = [
     "price": 49.95,
     "rate": 4,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "cheesecake-macarons-24-pack",
@@ -977,7 +977,7 @@ const menu = [
     "price": 75,
     "rate": 4,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "chocolate-mousse-supreme-cake",
@@ -987,7 +987,7 @@ const menu = [
     "price": 49,
     "rate": 4,
     "country": "Nanuet, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "choose-your-own-ice-cream-donuts-12-pack",
@@ -997,7 +997,7 @@ const menu = [
     "price": 89,
     "rate": 5,
     "country": "Brooklyn, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "chocolate-covered-cupcake-half-dozen",
@@ -1007,7 +1007,7 @@ const menu = [
     "price": 65,
     "rate": 5,
     "country": "Brooklyn, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "raspberry-chocolate-pie",
@@ -1017,7 +1017,7 @@ const menu = [
     "price": 79,
     "rate": 4,
     "country": "Oakland, CA",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "23595-best-sellers-ice-cream-sandwich-8-pack",
@@ -1027,7 +1027,7 @@ const menu = [
     "price": 74,
     "rate": 4,
     "country": "Wilmington, NC",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "chocolate-chip-cookies",
@@ -1037,7 +1037,7 @@ const menu = [
     "price": 59,
     "rate": 5,
     "country": "Boone, NC",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "cheesecake-macarons-12-pack",
@@ -1047,7 +1047,7 @@ const menu = [
     "price": 55,
     "rate": 4,
     "country": "New York, NY",
-    "category": "Cakes"
+    "category": "cakes"
   },
   {
     "id": "banana-pudding-choose-your-own-4-pack",
@@ -1057,7 +1057,7 @@ const menu = [
     "price": 74,
     "rate": 4,
     "country": "Long Beach, CA",
-    "category": "Cakes"
+    "category": "cakes"
   }
 ];
 export default menu;

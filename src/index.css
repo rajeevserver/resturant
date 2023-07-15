@@ -183,6 +183,7 @@
   font-weight: 500;
   padding: 6px 0;
   text-decoration: none;
+  text-transform: capitalize;
 }
 .nav-links li a:before{
   content: '';
@@ -221,3 +222,5 @@
   transform: scaleX(1);
   transform-origin: left;
 }
+
+
